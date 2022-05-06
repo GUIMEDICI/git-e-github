@@ -9,3 +9,5 @@ Objetivo: Executar todos os passos para a criação, atualização e sincroniza�
 ⚈ [Documentação Git](https://git-scm.com/docs/git/en)
 
 ⚈ [Documentação GitHub](https://docs.github.com/en)
+
+Informações adicionadas para complementação do readme, atualização e sincronização do repositório remoto.
