@@ -6,8 +6,7 @@ Objetivo: Executar todos os passos para a criação, atualização e sincroniza�
 
 🔗 Links úteis:
 
-⚈ [Documentação Git](https://git-scm.com/docs/git/en)
-
+⚈ [Documentação Git](https://git-scm.com/docs/git/en)</br>
 ⚈ [Documentação GitHub](https://docs.github.com/en)
 
 Informações adicionadas para complementação do readme, atualização e sincronização do repositório remoto.
