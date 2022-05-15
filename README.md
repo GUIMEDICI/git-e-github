@@ -1,6 +1,6 @@
 # Desafio de projeto sobre Git e Github. ✔️
 
-**Repositório para o primeiro "desafio" proposto - Bootcamp Carrefour Web Developer.**
+**Repositório para o primeiro exercício proposto - Bootcamp Carrefour Web Developer.**
 
 Objetivo: Executar todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
 
